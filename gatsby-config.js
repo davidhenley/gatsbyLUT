@@ -3,6 +3,7 @@ module.exports = {
     title: `Gatsby LUT`,
   },
   plugins: [
-    `gatsby-plugin-react-helmet`
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sass`
   ],
 }
